@@ -41,6 +41,32 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer" width="100%" />
+<br/>
+
+<sup>L E T ' S &nbsp; C O N N E C T</sup>
+<br/>
+<h3>Open to collaboration,<br/>consulting, and great conversations.</h3>
+<br/>
+<p>
+  <a href="mailto:benedictt06@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20a%20message-58A6FF?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=58A6FF" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/benedict-thomas-m-20395b224/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=22D3EE" />
+  </a>
+</p>
+<br/>
+<sub>
+  Crafted with intention &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; 2025
+  <br/>
+  <a href="https://github.com/belykben">github.com/belykben</a>
+</sub>
+
+<br/>
 
 </div>
+
+<!-- ══════════════════════════════════════════ FOOTER ══════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer" width="100%" />
