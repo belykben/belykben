@@ -47,21 +47,21 @@ HOST = "belykben"   # shown as  belykben@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now",      "AI Fullstack Engineer · Chennai"),
-    ("kv", "Focus",    "LLM apps · Fullstack products · APIs"),
+    ("kv", "Now",      "Software Engineer @ Clarium Tech"),
+    ("kv", "Edu",      "M.Tech Data Science @ IIT Madras"),
+    ("kv", "Focus",    "Agentic AI, Local VLMs, Full Stack"),
     ("kv", "Exp",      "3 Years building production systems"),
-    ("kv", "Based",    "Chennai, Tamil Nadu · India"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Frontend", "React, Next.js, TypeScript, Tailwind"),
-    ("kv", "Backend",  "Node.js, FastAPI, Python, REST/GraphQL"),
-    ("kv", "AI / ML",  "LangChain, OpenAI, RAG, Agents"),
-    ("kv", "Infra",    "Docker, Vercel, AWS, PostgreSQL"),
+    ("kv", "Backend",  "Python, FastAPI, Celery, PostgreSQL"),
+    ("kv", "Frontend", "React.js, TypeScript, Storybook"),
+    ("kv", "AI / ML",  "LangChain, LangGraph, vLLM, Qwen, Pixtral"),
+    ("kv", "Infra",    "Docker, Kafka, Kubernetes, Neo4j"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Built end-to-end LLM-powered web applications"),
-    ("bul", "Shipped fullstack products from 0 → production"),
-    ("bul", "Open to roles · DMs open on LinkedIn"),
+    ("bul", "Built Intellivo Local AI OCR platform"),
+    ("bul", "Built SEC 8-K GraphRAG & SDLC AI Platforms"),
+    ("bul", "Reduced extraction pipelines from 30m to 8m"),
 ]
 
 

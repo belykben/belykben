@@ -41,6 +41,48 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
 
 <br/>
 
+<div align="left" style="width: 860px; max-width: 100%;">
+<h3>🚀 Featured Projects</h3>
+
+<details>
+  <summary><b>Intellivo &nbsp;·&nbsp; Local AI OCR / Document Intelligence Platform</b></summary>
+  <br/>
+  Local AI-powered invoice OCR platform processing complex documents securely using <b>Qwen3-VL</b> and <b>Pixtral</b>. Built with FastAPI, React, PostgreSQL, and Kafka. Replaced cloud APIs with local inference to enhance privacy and reduce costs, improving processing speeds from 30m to 8m.
+  <br/>
+</details>
+
+<details>
+  <summary><b>SDLC Legacy Reverse Engineering Platform</b></summary>
+  <br/>
+  Agentic AI system analyzing legacy codebases to forward-engineer architecture standards. Built using <b>Qwen-3.6-A3B</b>, Python, and React to extract insights and generate module maps and dependency views.
+  <br/>
+</details>
+
+<details>
+  <summary><b>SEC 8-K GraphRAG Platform</b></summary>
+  <br/>
+  RAG platform for financial filings using FastAPI, React, and <b>Neo4j</b>. Implemented document chunking, embeddings, and vector retrieval for context-aware Q&A across SEC EDGAR filings.
+  <br/>
+</details>
+
+<br/>
+
+<h3>🛠️ Core Tech Stack</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-018BFE?style=for-the-badge&logo=neo4j&logoColor=white" />
+</p>
+
+</div>
+
 <br/>
 
 <sup>L E T ' S &nbsp; C O N N E C T</sup>
