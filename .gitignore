@@ -1,0 +1,23 @@
+# Local working files — not needed in the repo
+source-photo.jpg
+source-prepped.png
+requirements-local.txt
+profile-README-template.md
+PROMPT.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Editors
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
