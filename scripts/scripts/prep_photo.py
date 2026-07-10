@@ -6,7 +6,8 @@ Prepare a portrait photo for clean ASCII conversion:
   3. composite the subject onto pure white so the background reads as blank
      (white -> spaces in the ascii ramp)
 
-Output: source-prepped.png (grayscale), consumed by make_ascii_svg.py.
+Output: source-prepped.png (grayscale) and source-prepped-color.png (RGB),
+consumed by make_ascii_svg.py.
 Run once whenever the source photo changes; the ascii SVG itself is static.
 
     python scripts/prep_photo.py <input.jpg> [output.png]
@@ -44,3 +45,19 @@ out = np.clip(out, 0, 255).astype(np.uint8)
 
 Image.fromarray(out, mode="L").save(OUT)
 print("wrote", OUT, out.shape)
+
+# 4. also save a full-color version (subject on white, RGB) for colored ASCII
+rgb_boosted = cv2.convertScaleAbs(rgb, alpha=1.05, beta=8)
+out_col_r = rgb_boosted[:, :, 0].astype(np.float32) * mask + 255.0 * (1.0 - mask)
+out_col_g = rgb_boosted[:, :, 1].astype(np.float32) * mask + 255.0 * (1.0 - mask)
+out_col_b = rgb_boosted[:, :, 2].astype(np.float32) * mask + 255.0 * (1.0 - mask)
+out_col = np.stack(
+    [np.clip(out_col_r, 0, 255).astype(np.uint8),
+     np.clip(out_col_g, 0, 255).astype(np.uint8),
+     np.clip(out_col_b, 0, 255).astype(np.uint8)], axis=2
+)
+col_out = OUT.replace(".png", "-color.png").replace("-prepped-color-color", "-prepped-color")
+if col_out == OUT:
+    col_out = OUT.replace("source-prepped", "source-prepped-color")
+Image.fromarray(out_col, mode="RGB").save(col_out)
+print("wrote", col_out, out_col.shape)
