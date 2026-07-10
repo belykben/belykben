@@ -39,4 +39,8 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph stats footer" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer" width="100%" />
+
 </div>
