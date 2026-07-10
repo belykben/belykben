@@ -40,7 +40,7 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
 <br/>
 
 <div align="left" style="width: 860px; max-width: 100%;">
-<h3>🚀 Featured Projects</h3>
+<h3>Featured Projects</h3>
 
 <details>
   <summary><b>Intellivo &nbsp;·&nbsp; Local AI OCR / Document Intelligence Platform</b></summary>
@@ -65,7 +65,7 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
 
 <br/>
 
-<h3 align="center">🛠️ Core Tech Stack</h3>
+<h3 align="center">Core Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,postgres,mongodb,redis,kafka,docker,kubernetes,linux,nginx,git,github" />
