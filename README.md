@@ -37,8 +37,6 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
   <img alt="contribution snake" src="https://raw.githubusercontent.com/belykben/belykben/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph stats footer" />
-
 <br/>
 
 <div align="left" style="width: 860px; max-width: 100%;">
@@ -67,21 +65,17 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
 
 <br/>
 
-<h3>🛠️ Core Tech Stack</h3>
+<h3 align="center">🛠️ Core Tech Stack</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-018BFE?style=for-the-badge&logo=neo4j&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,postgres,mongodb,redis,kafka,docker,kubernetes,linux,nginx,git,github" />
 </p>
 
 </div>
+
+<br/>
+
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph stats footer" />
 
 <br/>
 
