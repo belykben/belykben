@@ -78,6 +78,7 @@ Hi! I’m a Full Stack Python Developer specializing in building database-driven
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph stats footer" />
 
 <br/>
+<br/>
 
 <sup>L E T ' S &nbsp; C O N N E C T</sup>
 <br/>
