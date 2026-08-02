@@ -1,17 +1,17 @@
 {
   "username": "belykben",
-  "generated_at": "2026-08-01T05:53:29Z",
+  "generated_at": "2026-08-02T05:56:25Z",
   "range": {
-    "start": "2025-07-27",
-    "end": "2026-08-01"
+    "start": "2025-08-03",
+    "end": "2026-08-02"
   },
-  "total_contributions": 173,
-  "active_days": 53,
-  "avg_per_active_day": 3.3,
+  "total_contributions": 177,
+  "active_days": 55,
+  "avg_per_active_day": 3.2,
   "current_streak": {
-    "length": 0,
-    "start": null,
-    "end": null
+    "length": 2,
+    "start": "2026-08-01",
+    "end": "2026-08-02"
   },
   "longest_streak": {
     "length": 16,
@@ -23,10 +23,6 @@
     "count": 14
   },
   "monthly": [
-    {
-      "month": "2025-07",
-      "total": 0
-    },
     {
       "month": "2025-08",
       "total": 3
@@ -69,7 +65,7 @@
     },
     {
       "month": "2026-06",
-      "total": 13
+      "total": 11
     },
     {
       "month": "2026-07",
@@ -77,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 0
+      "total": 6
     }
   ],
   "days": [
-    {
-      "date": "2025-07-27",
-      "count": 0
-    },
-    {
-      "date": "2025-07-28",
-      "count": 0
-    },
-    {
-      "date": "2025-07-29",
-      "count": 0
-    },
-    {
-      "date": "2025-07-30",
-      "count": 0
-    },
-    {
-      "date": "2025-07-31",
-      "count": 0
-    },
-    {
-      "date": "2025-08-01",
-      "count": 0
-    },
-    {
-      "date": "2025-08-02",
-      "count": 0
-    },
     {
       "date": "2025-08-03",
       "count": 0
@@ -1343,7 +1311,7 @@
     },
     {
       "date": "2026-06-07",
-      "count": 8
+      "count": 6
     },
     {
       "date": "2026-06-08",
@@ -1563,7 +1531,11 @@
     },
     {
       "date": "2026-08-01",
-      "count": 0
+      "count": 4
+    },
+    {
+      "date": "2026-08-02",
+      "count": 2
     }
   ]
 }
